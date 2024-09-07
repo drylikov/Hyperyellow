@@ -1,4 +1,4 @@
-# hyperyellow
+# Hyperyellow
 
 Turns [hyper](https://hyper.is/) yellow.
 
